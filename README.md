@@ -1,2 +1,2 @@
-# Code repository for Basic Statistics
+# Code repository for basic Statistics
 
